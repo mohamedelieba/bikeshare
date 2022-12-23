@@ -2,11 +2,11 @@
 
 Udacity Nanodegree project
 
-# Overview
+## Overview
 
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
-# Datasets
+## Datasets
 
 > Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -21,7 +21,7 @@ In this project, you will use data provided by Motivate, a bike share system pro
 * Gender
 * Birth Year
 
-# Program Flow:
+## Program Flow:
 
 the program starts with asking the user about the desriable city to load its data then if he/she would like to filter the data by day, month, both, or none of them.
 
@@ -33,7 +33,7 @@ finally, the program will ask the user if he would like to restart and reset his
 
 you can exit the program saying "no" in the last prompt or using keyboard interupt signal e.g. ctrl+c.
 
-# Statistics Computed
+## Statistics Computed
 
 1. Popular times of travel (i.e., occurs most often in the start time)
     * most common month
